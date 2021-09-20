@@ -1,0 +1,39 @@
+---
+title: "Lab 3 - R GITHUB DOCUMENT"
+author: "Victor Francis"
+date: "September 25, 2021"
+output:
+  github_document:
+    toc: true
+---
+
+## Code Example 1
+This markdown text section introduces **multiplication** and **addition** operations in R
+
+``` {R multiplication}
+print(3*2)
+```
+``` {R addition}
+print(3+2)
+```
+
+## Code Example 2
+This markdown text section introduces **subtraction** and **division** operations in R
+
+``` {R subtraction}
+print(8-2)
+```
+``` {R division}
+print(8/2)
+```
+
+
+## Code Example 3
+This markdown text section introduces **square** and **modulo** operations in R
+
+``` {R square}
+print(8**2)
+```
+``` {R modulo}
+print(8%%3)
+```

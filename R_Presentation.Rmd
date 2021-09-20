@@ -1,0 +1,74 @@
+---
+title: "R Presentation"
+subtitle: "University of British Columbia"
+author: "Victor Franis"
+institute: "Master of Data Science"
+date: "September 25, 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+
+
+---
+class: inverse, center, middle
+# Code Example 1
+This markdown text section introduces **Multiplication** and **Addition** operations in R
+
+---
+class: inverse, center, middle
+### Multiplication
+``` {R multiplication}
+print(3*2)
+```
+
+### Addition
+``` {R addition}
+print(3+2)
+```
+
+
+
+
+---
+class: inverse, center, middle
+
+# Code Example 2
+This markdown text section introduces **Subtraction** and **Division** operations in R
+
+---
+class: inverse, center, middle
+### Subtraction
+``` {R subtraction}
+print(8-2)
+```
+
+### Division
+``` {R division}
+print(8/2)
+```
+
+
+
+
+---
+class: inverse, center, middle
+
+# Code Example 3
+This markdown text section introduces **Square** and **Modulo** operations in R
+
+---
+class: inverse, center, middle
+### Square
+``` {R square}
+print(8**2)
+```
+
+### Modulo
+``` {R modulo}
+print(8%%3)
+```
