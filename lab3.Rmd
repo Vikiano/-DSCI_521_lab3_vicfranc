@@ -92,7 +92,7 @@ Using this approach, include a clickable link to your rendered HTML file on GitH
 under this question.
 ```
 
-YOUR ANSWER GOES HERE
+**Github HTML Preview:** [HTML Preview](http://htmlpreview.github.io/?https://github.com/Vikiano/DSCI_521_lab3_vicfranc/blob/main/lab3.html)
 
 ```{block, type="alert alert-info"}
 #### Question 2
