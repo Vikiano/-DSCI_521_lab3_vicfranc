@@ -106,7 +106,7 @@ Ensure that you can render/knit the document after you add that chunk.
 
 ```{r age_print}
 age <- 10
-print (paste0("you were born just ", age, " years ago"))
+print (paste0("you were born just ", age, " years ago. Wow!"))
 ```
 
 ```{block, type="alert alert-info"}
@@ -347,7 +347,13 @@ rubric={mechanics:6}
 5. Paste a link to these files (`.Rmd`, .`html`, and `.pdf`) as your answer below.
 ```
 
-**R Presenation in pdf**: [R_Presentation_xaringan.pdf](https://github.ubc.ca/mds-2021-22/DSCI_521_lab3_vicfranc/blob/master/R_Presentation_xaringan.pdf)
+**R Presentation in pdf**: [R_Presentation_xaringan.pdf](https://github.ubc.ca/mds-2021-22/DSCI_521_lab3_vicfranc/blob/master/R_Presentation_xaringan.pdf)
+
+
+**R Presentation in Rmd**: [R_Presentation.Rmd](https://github.ubc.ca/mds-2021-22/DSCI_521_lab3_vicfranc/blob/master/R_Presentation.Rmd)
+
+
+**R Presentation in html**: [R_Presentation in html](https://github.ubc.ca/mds-2021-22/DSCI_521_lab3_vicfranc/blob/master/R_html_document.html)
 
 ```{block, type="alert alert-info"}
 #### (Optional) Question 11
